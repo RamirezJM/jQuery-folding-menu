@@ -22,13 +22,7 @@ article {
     width:525px;
 }
 
-h1 {
-    height: 150px;
-    background: url("http://placekitten.com/525/150") no-repeat;
-    line-height: 150px;
-    text-align: center;
-    color: #fff;
-}
+
 
 ul {
     list-style-type: none;
@@ -40,4 +34,16 @@ ul {
 
 .show-menu {
     display: block;
+}
+
+#dinamic-content{
+  width: 400px;
+  height: 200px;
+  
+  border: 2xp solid red;
+}
+
+#dinamic-content img{
+  width: 100%;
+
 }
